@@ -1,5 +1,9 @@
 #include "main.h"
 #include <stdio.h>
+/**
+ * times_table - describes learning times_tables starting with 0
+ * Return: empty output
+ */
 
 void times_table(void)
 {
