@@ -2,7 +2,7 @@
 /**
  * _abs - function defines absolute value of a number
  * @a: function parameter
- * Return: -a or a
+ * Return: -a or a;
  */
 
 int _abs(int a)
@@ -13,6 +13,6 @@ int _abs(int a)
 	{
 		return (a);
 	}
-	
+
 	return (0);
 }
